@@ -1,15 +1,7 @@
 ---
 layout: page
-title: About
+title: О блоге
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Этот блог создан для оповещения о проблемах с доступностью основного сайта <http://ulanovka.ru>.
