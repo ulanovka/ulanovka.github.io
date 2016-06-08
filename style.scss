@@ -120,6 +120,12 @@ img {
   color: $gray;
 }
 
+.disqus-comment-count {
+  float: right;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
