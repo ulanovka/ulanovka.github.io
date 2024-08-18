@@ -5,12 +5,18 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
 
-  <div class="entry">
-    {{ content }}
+  <div class="meta">
+    {% if page.date %}
+      <span class="date">Опубликовано: {{ page.date | date: "%B %e, %Y" }}</span>
+    {% endif %}
+
+    {% if page.author %}
+      <span class="author">Автор: {{ page.author }}</span>
+    {% endif %}
   </div>
 
-  <div class="date">
-    Опубликовано {{ page.date | date: "%B %e, %Y" }}
+  <div class="entry">
+    {{ content }}
   </div>
 
   {% include disqus.html %}
