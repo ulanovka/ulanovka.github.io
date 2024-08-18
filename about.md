@@ -1,5 +1,6 @@
 ---
 title: О блоге
+date: 2008-05-08T10:00:00+00:00
 layout: post
 permalink: /about/
 ---
