@@ -7,11 +7,11 @@ layout: default
 
   <div class="meta">
     {% if page.date %}
-      <span class="date">Опубликовано: {{ page.date | date: "%B %e, %Y" }}</span>
+      <div class="date">Опубликовано: {{ page.date | date: "%B %e, %Y" }}</div>
     {% endif %}
 
     {% if page.author %}
-      <span class="author">Автор: {{ page.author }}</span>
+      <div class="author">Автор: {{ page.author }}</div>
     {% endif %}
   </div>
 
