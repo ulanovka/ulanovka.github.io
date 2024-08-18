@@ -1,6 +1,6 @@
 ---
-layout: page
 title: О блоге
+layout: post
 permalink: /about/
 ---
 

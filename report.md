@@ -1,7 +1,7 @@
 ---
-layout: page-with-comments
 title: Сообщить о проблеме
 date: 2012-03-07T10:00:00+00:00
+layout: post
 permalink: /report/
 ---
 

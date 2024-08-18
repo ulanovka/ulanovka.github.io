@@ -1,7 +1,7 @@
 ---
-layout: page
 title: История сайта Улановка
 author: Mac
+layout: post
 date: 2016-05-01T14:35:00+00:00
 permalink: /history/
 ---
